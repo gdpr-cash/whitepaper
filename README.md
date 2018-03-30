@@ -1,5 +1,4 @@
-# White Paper
-GDPR.CASH White Paper
+# GDPR.CASH
 
 The General Data Protection Regulation, commonly referred to as GDPR starts with this
 sentence "The protection of natural persons in relation to the processing of personal data
